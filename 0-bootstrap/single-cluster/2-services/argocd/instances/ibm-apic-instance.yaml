@@ -31,6 +31,6 @@ spec:
                 accept: true
                 use: production
                 license: L-RJON-BZEP9N
-              version: 10.0.4.0
+              version: 10.0.4
               profile: n3xc14.m48
               storageClassName: ibmc-block-gold
