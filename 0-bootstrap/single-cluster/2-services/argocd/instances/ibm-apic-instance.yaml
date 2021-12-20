@@ -31,6 +31,6 @@ spec:
                 accept: true
                 use: production
                 license: L-RJON-C7BJ42
-              version: 10.0.4.0-ifix1
+              version: 10.0.4.0-2291
               profile: n3xc14.m48
               storageClassName: ibmc-block-gold
